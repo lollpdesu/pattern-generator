@@ -64,3 +64,10 @@ A single, self-contained HTML file. You don't need to install anything, the app 
 | Mouse wheel | Zoom |
 | <kbd>Ctrl</kbd>+<kbd>Z</kbd> / <kbd>Ctrl</kbd>+<kbd>Y</kbd> | Undo / redo |
 | <kbd>Ctrl</kbd>+<kbd>S</kbd> | Save SVG |
+
+## Feedback & bugs
+
+Found a bug or have an idea for a new pattern? [**Open an issue →**](../../issues/new/choose)
+
+- **Bug report:** what happened, steps to reproduce, and ideally a screenshot or your project JSON (EXPORT tab → PROJECT → Save JSON).
+- **Feature request:** new patterns, settings or export options. Reference images help a lot.

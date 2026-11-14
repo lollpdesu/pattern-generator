@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest a new pattern, setting or improvement
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like to see? A new pattern, a new setting, a different export…
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
+      description: The use case helps to get it right, e.g. laser cutting, 3D textures, wrapping a cylinder.
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference images or examples
+      description: For a new pattern, a picture of what it should look like helps a lot. Drag images in here.
