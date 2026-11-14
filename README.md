@@ -1,6 +1,6 @@
 # Pattern Generator
 
-A single-file browser app for designing vector patterns and exporting them as SVG or PNG. Open `index.html` in any modern browser; no install or internet connection needed.
+A single-file browser app for designing vector patterns and exporting them as SVG or PNG. Download `pattern-generator.html` (from the latest release or this repo) and open it in any modern browser; no install or internet connection needed.
 
 ## Patterns
 
