@@ -4,7 +4,7 @@
 
 A single, self-contained HTML file. You don't need to install anything, the app has no dependencies, and it works offline.
 
-[**Download the latest release →**](../../releases/latest)
+[**▶ Open the app in your browser**](https://lollpdesu.github.io/pattern-generator/) &nbsp;·&nbsp; [**Download the latest release**](../../releases/latest)
 
 ---
 
@@ -46,10 +46,11 @@ A single, self-contained HTML file. You don't need to install anything, the app 
 
 ## Getting started
 
-1. Download `pattern-generator.html` from the [latest release](../../releases/latest).
-2. Open it in Chrome, Edge or Firefox.
-3. Pick a pattern, set the canvas size and unit, and turn on **Seamless** if you need it.
-4. Export from the **EXPORT** tab or with <kbd>Ctrl</kbd>+<kbd>S</kbd>.
+1. [Open the app online](https://lollpdesu.github.io/pattern-generator/), or download `pattern-generator.html` from the [latest release](../../releases/latest) and open it in Chrome, Edge or Firefox.
+2. Pick a pattern, set the canvas size and unit, and turn on **Seamless** if you need it.
+3. Export from the **EXPORT** tab or with <kbd>Ctrl</kbd>+<kbd>S</kbd>.
+
+Your settings are saved in the browser automatically. Use **EXPORT → PROJECT → Save JSON** to keep a project as a file.
 
 ## Keyboard shortcuts
 
@@ -71,3 +72,9 @@ Found a bug or have an idea for a new pattern? [**Open an issue →**](../../iss
 
 - **Bug report:** what happened, steps to reproduce, and ideally a screenshot or your project JSON (EXPORT tab → PROJECT → Save JSON).
 - **Feature request:** new patterns, settings or export options. Reference images help a lot.
+
+## License
+
+[MIT](LICENSE). You're free to use, change and share it, including commercially. Patterns you create with the app are yours.
+
+The "Counter-Strike" display font (by SoJa) embedded in the app for headings belongs to its author and is not covered by this license.
